@@ -4,7 +4,7 @@ Please include a summary of the change with relevant motivation and context
 
 ## Linked issues
 
-- (issue)
+- Link an issue from this repository using the **Development** option
 
 ## Checklist
 
