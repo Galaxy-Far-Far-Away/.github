@@ -2,13 +2,10 @@
 
 Please include a summary of the change with relevant motivation and context
 
-## Linked issues
-
-- Link an issue from this repository using the **Development** option
-
 ## Checklist
 
 - [ ] I have added one of the `patch`, `minor`, `major` or `no-release` labels
+- [ ] I have linked an issue from this repository using the **Development** option
 - [ ] I have performed a self-review of my own code
 - [ ] I have checked for redundant or commented out code
 - [ ] I have commented my code where I can't make it self-documenting
