@@ -2,6 +2,10 @@
 
 Please include a summary of the change with relevant motivation and context
 
+## Linked Issues
+
+- (link)
+
 ## Checklist
 
 - [ ] I have added one of the `patch`, `minor`, `major` or `no-release` labels
