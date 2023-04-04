@@ -1,0 +1,19 @@
+# .github/release.yml
+
+changelog:
+  categories:
+    - title: 🛠 Breaking Changes
+      labels:
+        - major
+    - title: 🚀 Features
+      labels:
+        - minor
+    - title: 🐛 Fixes
+      labels:
+        - patch
+    - title: 📦 Dependencies
+      labels:
+        - dependencies
+    - title: 💬 Other
+      labels:
+        - no-release
