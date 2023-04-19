@@ -4,7 +4,9 @@ Please include a summary of the change with relevant motivation and context
 
 ## Linked Issues
 
-- https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
+- resolves <insert-issue-link>
+
+[GitHub Issue Linking Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
 ## Checklist
 
