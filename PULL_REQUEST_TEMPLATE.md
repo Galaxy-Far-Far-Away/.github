@@ -2,13 +2,10 @@
 
 Please include a summary of the change with relevant motivation and context
 
-## Linked PR
-
-- <insert-pr-link>
-
-## Linked Issues
+## Linked Issues & PRs
 
 - resolves <insert-issue-link>
+- relates to <insert-pr-link>
 
 [GitHub Issue Linking Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 
