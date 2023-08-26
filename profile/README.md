@@ -1,26 +1,14 @@
-<img src="https://i.imgur.com/dP1XN7g.png" width="360" height="200">
+<img src="https://i.imgur.com/dP1XN7g.png" width="300">
   
 ## Enable secure development at scale
 
-Nullify is your automated security sentry that continuously finds and fixes security issues across your codebase from commit to merge.
+Nullify is your autonomous agent that continuously finds and fixes security issues across your codebase from commit to merge.
 
-### 🛡️ Continuous Security Monitoring
-Nullify integrates seamlessly into your existing version control workflows, ensuring security checks are performed on all code changes. This integration allows for continuous security monitoring and reduces the burden on both security and development teams.
-
-### ⚡ AI-Enhanced Remediation
-Nullify leverages OpenAI to provide developers with contextual and actionable security feedback directly within their version control environment. Recommended in-line fixes and best practices help engineers write secure code from the start, without compromising developer experience.
-
-### 🚀 Risk Prioritization
-Prioritize and fix only the vulnerabilities that need fixing. Nullify employs an intelligent risk prioritization mechanism, categorizing security issues based on severity and exploitability. This ensures that your team focuses on addressing the most critical vulnerabilities promptly.
-
-### 📈 Organization-Wide Metrics 
-Ship metrics and insights to measure adoption and coverage via your dashboard platform of choice, and gain visibility into your application security posture at any given point in time.
-
-## Get Started with Nullify Today!
+## Getting started
 
 - Visit our [website](https://www.nullify.ai)
 - [Read the docs](https://docs.nullify.ai/) to learn more about Nullify
-- Ask questions in [Discord](https://discord.gg/JQxYktMs)
+- Ask questions in [Slack](https://join.slack.com/t/nullifycommunity/shared_invite/zt-1ve4xgket-PfkFjSDJK_kG8l~OA_GXUg)
 
 <p align="left">
     <a href="https://github.com/Nullify-Platform/Customer-Feedback">
