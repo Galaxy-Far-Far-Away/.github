@@ -2,6 +2,10 @@
 
 Please include a summary of the change with relevant motivation and context
 
+## Test Plan
+
+Please include steps to test the change. Include screenshots if applicable.
+
 ## Linked Issues & PRs
 
 - resolves <insert-issue-link>
